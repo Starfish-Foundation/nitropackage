@@ -1,0 +1,7 @@
+{
+  "orderlist": [
+    {
+      "@qol/end_portal_finder": "qol/end_portal_finder.py"
+    }
+  ]
+}
